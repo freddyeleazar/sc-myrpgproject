@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fc95d2d8814c94b81d0facc29347c4, type: 3}
+  m_Name: "Ll\xE9vame a la granja (Rescate de Sam)"
+  m_EditorClassIdentifier: 
+  dialogueText: "\xA1Muchas gracias! Se lo merec\xEDan esos bandidos. Por favor,
+    ll\xE9vame a donde mi padre..."
+  dialogueInputs:
+  - {fileID: 11400000, guid: e8fe647496a6f4b42a2f59e5d2423f20, type: 2}
+  requiredQuests:
+  - {fileID: 11400000, guid: 576f1d1624ac6c9459576f4a5731e5bf, type: 2}
+  activateQuest: {fileID: 0}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fc95d2d8814c94b81d0facc29347c4, type: 3}
+  m_Name: "Pedir ubicaci\xF3n de los bandidos (Rescate de Sam)"
+  m_EditorClassIdentifier: 
+  dialogueText: "\xBFD\xF3nde me dijiste que estaban los bandidos?"
+  dialogueInputs:
+  - {fileID: 11400000, guid: fd24d05f7263b3b4aacf578ebc495125, type: 2}
+  requiredQuests:
+  - {fileID: 11400000, guid: 2b27ad4ef48140a4f88a584c1fa46b15, type: 2}
+  - {fileID: 11400000, guid: 68dd942469c826a4889ff0787553b50e, type: 2}
+  activateQuest: {fileID: 0}
